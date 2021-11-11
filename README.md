@@ -12,6 +12,7 @@ All-in-one Work Hub Software
 - Resetting functionality when there are errors.
 
 WARNING:
+
 Several bugs might exist inside the project and might need further fixes.
 
 ADDITIONAL NOTES:
