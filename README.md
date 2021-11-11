@@ -17,3 +17,4 @@ Several bugs might exist inside the project and might need further fixes.
 
 ADDITIONAL NOTES:
 - Install ControlP5 Library and Java prior to running the project.
+- When using the ink color, text color or background color, click twice to enable the color to sync in.
